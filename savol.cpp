@@ -10,7 +10,7 @@ int main()
     cin>>name;
     cout<<"Enter your Surname: ";
     cin>>surname;
-    cout<<"Enter your Year: ";
+    cout<<"Enter your siyvus: ";
     cin>>year;
     age=2022-year;
 
