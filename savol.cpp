@@ -6,11 +6,11 @@ int main()
 
     string name,surname;
     int age,year;
-    cout<<"Umari kste: ";
+    cout<<"Enter your Name: ";
     cin>>name;
-    cout<<"Umari shlyuha: ";
+    cout<<"Enter your Surname: ";
     cin>>surname;
-    cout<<"dolbaebi Umar: ";
+    cout<<"Enter your siyvus: ";
     cin>>year;
     age=2022-year;
 
