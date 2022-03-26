@@ -15,8 +15,8 @@ int main()
     age=2022-year;
 
     if(age>17 && age<45)
-        cout<< "Hello Mr."<<name<<" "<<surname<<", you have been hired.";
+        cout<< "Hello Padanalat"<<name<<" "<<surname<<", you have been hired.";
     else
-        cout<<"Hello Mr."<<name<<surname<<", you have not been hired.";
+        cout<<"Hello Bepadar"<<name<<surname<<", you have not been hired.";
 
 }
